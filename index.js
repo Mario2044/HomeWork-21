@@ -1,0 +1,3 @@
+function mapping(array, callback) {
+    
+}
